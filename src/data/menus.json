@@ -1,1 +1,16 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "Item 1",
+      "title": "Menu Item 1",
+      "url": "/about/",
+      "weight": 1
+    },
+    {
+      "identifier": "Item 2",
+      "title": "Menu Item 2",
+      "url": "/menu-item-2/",
+      "weight": 2
+    }
+  ]
+}
